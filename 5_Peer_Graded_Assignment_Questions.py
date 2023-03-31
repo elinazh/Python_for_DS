@@ -133,7 +133,7 @@ app.layout = html.Div(children=[html.H1('US Domestic Airline Flights Performance
                                         html.Div([ ], id='plot4'),
                                         html.Div([ ], id='plot5')
                                 ], style={'display': 'flex'})
-
+                                ],
 # Callback function definition
 # TASK4: Add 5 ouput components
 # Enter your code below. Make sure you have correct formatting.
